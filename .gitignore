@@ -1,1 +1,5 @@
 node_modules
+src/assets
+babel.config.js
+package.json
+webpack.config.js
